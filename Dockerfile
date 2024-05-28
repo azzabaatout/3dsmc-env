@@ -18,25 +18,33 @@ RUN mkdir build_image
 WORKDIR /build_image
 
 # Install Glog from source (Ceres)
+# (Don't do this anymore)
 # <-
-RUN git clone https://github.com/google/glog.git
-WORKDIR /build_image/glog
-RUN cmake -S . -B build -G "Unix Makefiles"
-RUN cmake --build build
-RUN cmake --build build --target install
+# RUN git clone https://github.com/google/glog.git
+# WORKDIR /build_image/glog
+# RUN cmake -S . -B build -G "Unix Makefiles"
+# RUN cmake --build build
+# RUN cmake --build build --target install
+# ->
+
+# Install Glog from package manager
+# (Do this instead)
+# <-
+RUN apt-get -y install libgoogle-glog-dev
 # ->
 
 # Install Ceres Solver
 # <-
-WORKDIR /build_image
-RUN git clone https://ceres-solver.googlesource.com/ceres-solver
-WORKDIR /build_image/ceres-solver
-RUN mkdir build
-WORKDIR /build_image/ceres-solver/build
-RUN cmake ..
-RUN make -j 4
-RUN make install
+# WORKDIR /build_image
+# RUN git clone https://ceres-solver.googlesource.com/ceres-solver
+# WORKDIR /build_image/ceres-solver
+# RUN mkdir build
+# WORKDIR /build_image/ceres-solver/build
+# RUN cmake .. -DMINIGLOG=ON -DGFLAGS=OFF -DBUILD_DOCUMENTATION=OFF 
+# RUN make -j 4
+# RUN make install
 # ->
+RUN apt-get -y install libceres-dev
 
 WORKDIR /config/workspace/
 
