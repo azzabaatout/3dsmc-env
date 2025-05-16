@@ -1,0 +1,99 @@
+2025-05-15 10:38:16.532 [info] 
+
+
+
+
+2025-05-15 10:38:16.537 [info] Extension host agent started.
+2025-05-15 10:38:17.774 [info] [172.20.0.1][b527c6db][ManagementConnection] New connection established.
+2025-05-15 10:38:18.058 [info] ComputeTargetPlatform: linux-arm64
+2025-05-15 10:38:18.180 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] New connection established.
+2025-05-15 10:38:18.269 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] <968> Launched Extension Host Process.
+2025-05-15 10:39:18.944 [info] ComputeTargetPlatform: linux-arm64
+2025-05-15 10:47:18.786 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 10:47:18.825 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:00:23.558 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:00:23.599 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:00:36.071 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:00:36.171 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:01:23.747 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:01:23.816 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:02:10.376 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:02:10.420 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:02:58.506 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:02:58.550 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:03:46.382 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:03:46.426 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:04:34.587 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:04:34.677 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:05:21.291 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:05:21.339 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:06:12.477 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:06:12.541 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:06:58.787 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:06:58.845 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:07:45.725 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:07:45.779 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:09:20.560 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:09:20.615 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:10:08.408 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:10:08.461 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:10:55.209 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:10:55.302 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:11:45.142 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:11:45.241 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:12:31.811 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:12:31.857 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:13:21.370 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:13:21.412 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:14:09.622 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:14:09.946 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:14:55.705 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:14:55.757 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:15:42.452 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:15:42.500 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:17:17.933 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:17:17.977 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:18:05.576 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:18:05.620 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:18:55.346 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:18:55.392 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:20:30.630 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:20:30.703 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:21:17.050 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:21:17.101 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:22:05.001 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:22:05.064 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:22:54.029 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:22:54.073 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:23:42.688 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:23:42.749 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:24:29.069 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:24:29.126 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:25:18.374 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:25:18.458 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:26:55.093 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:26:55.137 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:27:41.434 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:27:41.506 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:28:30.225 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:28:30.278 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:29:16.465 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] The client has reconnected.
+2025-05-15 11:29:16.529 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has reconnected.
+2025-05-15 11:30:26.104 [info] [172.20.0.1][b527c6db][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-15 11:30:26.209 [info] [172.20.0.1][9d0b0249][ExtensionHostConnection] <968> Extension Host Process exited with code: 0, signal: null.
+2025-05-15 12:02:25.988 [info] [172.20.0.1][f30ca3b4][ManagementConnection] New connection established.
+2025-05-15 12:02:26.377 [info] [172.20.0.1][afb9c48b][ExtensionHostConnection] New connection established.
+2025-05-15 12:02:26.392 [info] [172.20.0.1][afb9c48b][ExtensionHostConnection] <16013> Launched Extension Host Process.
+2025-05-15 12:09:55.422 [info] [172.20.0.1][afb9c48b][ExtensionHostConnection] The client has reconnected.
+2025-05-15 12:09:55.475 [info] [172.20.0.1][f30ca3b4][ManagementConnection] The client has reconnected.
+2025-05-15 12:10:09.216 [info] [172.20.0.1][f30ca3b4][ManagementConnection] The client has reconnected.
+2025-05-15 12:10:09.551 [info] [172.20.0.1][afb9c48b][ExtensionHostConnection] The client has reconnected.
+2025-05-15 12:10:53.500 [info] [172.20.0.1][afb9c48b][ExtensionHostConnection] The client has reconnected.
+2025-05-15 12:10:53.613 [info] [172.20.0.1][f30ca3b4][ManagementConnection] The client has reconnected.
+2025-05-15 12:13:45.657 [info] [172.20.0.1][f30ca3b4][ManagementConnection] The client has reconnected.
+2025-05-15 12:13:45.703 [info] [172.20.0.1][afb9c48b][ExtensionHostConnection] The client has reconnected.
+2025-05-15 12:17:15.684 [info] [172.20.0.1][f30ca3b4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-15 12:17:15.792 [info] [172.20.0.1][afb9c48b][ExtensionHostConnection] <16013> Extension Host Process exited with code: 0, signal: null.
+2025-05-15 14:24:26.511 [info] [172.20.0.1][30dd79dd][ManagementConnection] New connection established.
+2025-05-15 14:24:26.995 [info] [172.20.0.1][1922c274][ExtensionHostConnection] New connection established.
+2025-05-15 14:24:27.006 [info] [172.20.0.1][1922c274][ExtensionHostConnection] <18920> Launched Extension Host Process.

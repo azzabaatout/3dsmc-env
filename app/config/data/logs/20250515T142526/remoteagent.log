@@ -1,0 +1,14 @@
+2025-05-15 14:25:26.090 [info] 
+
+
+
+
+2025-05-15 14:25:26.096 [info] Extension host agent started.
+2025-05-15 14:25:26.133 [error] [172.20.0.1][30dd79dd][ManagementConnection] Unknown reconnection token (never seen).
+2025-05-15 14:25:26.259 [error] [172.20.0.1][1922c274][ExtensionHostConnection] Unknown reconnection token (never seen).
+2025-05-15 14:25:27.039 [info] [172.20.0.1][fcfa79a9][ManagementConnection] New connection established.
+2025-05-15 14:25:27.306 [info] ComputeTargetPlatform: linux-arm64
+2025-05-15 14:25:27.414 [info] [172.20.0.1][1b1a983c][ExtensionHostConnection] New connection established.
+2025-05-15 14:25:27.469 [info] [172.20.0.1][1b1a983c][ExtensionHostConnection] <776> Launched Extension Host Process.
+2025-05-15 14:50:28.642 [info] [172.20.0.1][fcfa79a9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-15 14:50:28.780 [info] [172.20.0.1][1b1a983c][ExtensionHostConnection] <776> Extension Host Process exited with code: 0, signal: null.

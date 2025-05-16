@@ -1,0 +1,35 @@
+2025-05-14 13:21:30.897 [info] 
+
+
+
+
+2025-05-14 13:21:30.903 [info] Extension host agent started.
+2025-05-14 13:21:32.003 [info] [172.20.0.1][241d4ccf][ManagementConnection] New connection established.
+2025-05-14 13:21:32.247 [info] ComputeTargetPlatform: linux-arm64
+2025-05-14 13:21:32.601 [info] [172.20.0.1][7bf1b59a][ExtensionHostConnection] New connection established.
+2025-05-14 13:21:32.640 [info] [172.20.0.1][7bf1b59a][ExtensionHostConnection] <872> Launched Extension Host Process.
+2025-05-14 13:49:37.419 [info] [172.20.0.1][7bf1b59a][ExtensionHostConnection] The client has reconnected.
+2025-05-14 13:49:37.543 [info] [172.20.0.1][241d4ccf][ManagementConnection] The client has reconnected.
+2025-05-14 14:55:48.251 [info] [172.20.0.1][241d4ccf][ManagementConnection] The client has reconnected.
+2025-05-14 14:55:48.308 [info] [172.20.0.1][7bf1b59a][ExtensionHostConnection] The client has reconnected.
+2025-05-14 15:02:13.009 [info] [172.20.0.1][7bf1b59a][ExtensionHostConnection] The client has reconnected.
+2025-05-14 15:02:13.069 [info] [172.20.0.1][241d4ccf][ManagementConnection] The client has reconnected.
+2025-05-14 20:07:28.079 [info] [172.20.0.1][241d4ccf][ManagementConnection] The client has reconnected.
+2025-05-14 20:07:28.152 [info] [172.20.0.1][7bf1b59a][ExtensionHostConnection] The client has reconnected.
+2025-05-14 20:18:33.354 [info] [172.20.0.1][241d4ccf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-14 20:18:33.486 [info] [172.20.0.1][7bf1b59a][ExtensionHostConnection] <872> Extension Host Process exited with code: 0, signal: null.
+2025-05-14 20:18:34.264 [info] [172.20.0.1][9f3a5883][ManagementConnection] New connection established.
+2025-05-14 20:18:35.988 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-14 20:18:36.475 [info] [172.20.0.1][78eb1aa8][ExtensionHostConnection] New connection established.
+2025-05-14 20:18:36.500 [info] [172.20.0.1][78eb1aa8][ExtensionHostConnection] <30809> Launched Extension Host Process.
+2025-05-14 21:32:35.554 [info] [172.20.0.1][78eb1aa8][ExtensionHostConnection] The client has reconnected.
+2025-05-14 21:32:35.689 [info] [172.20.0.1][9f3a5883][ManagementConnection] The client has reconnected.
+2025-05-15 05:50:40.250 [info] [172.20.0.1][9f3a5883][ManagementConnection] The client has reconnected.
+2025-05-15 05:50:40.329 [info] [172.20.0.1][78eb1aa8][ExtensionHostConnection] The client has reconnected.
+2025-05-15 06:54:31.956 [info] [172.20.0.1][9f3a5883][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-15 06:54:32.242 [info] [172.20.0.1][78eb1aa8][ExtensionHostConnection] <30809> Extension Host Process exited with code: 0, signal: null.
+2025-05-15 06:56:47.396 [info] [172.20.0.1][5e21d3b3][ManagementConnection] New connection established.
+2025-05-15 06:56:47.804 [info] [172.20.0.1][a5ee4980][ExtensionHostConnection] New connection established.
+2025-05-15 06:56:47.830 [info] [172.20.0.1][a5ee4980][ExtensionHostConnection] <86852> Launched Extension Host Process.
+2025-05-15 06:57:48.091 [info] [172.20.0.1][5e21d3b3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-15 06:57:48.178 [info] [172.20.0.1][a5ee4980][ExtensionHostConnection] <86852> Extension Host Process exited with code: 0, signal: null.

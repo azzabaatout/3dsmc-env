@@ -1,0 +1,16 @@
+2025-05-15 14:50:57.229 [info] 
+
+
+
+
+2025-05-15 14:50:57.235 [info] Extension host agent started.
+2025-05-15 14:51:04.231 [info] [172.20.0.1][6774fed5][ManagementConnection] New connection established.
+2025-05-15 14:51:04.513 [info] ComputeTargetPlatform: linux-arm64
+2025-05-15 14:51:04.625 [info] [172.20.0.1][c0ae919d][ExtensionHostConnection] New connection established.
+2025-05-15 14:51:04.658 [info] [172.20.0.1][c0ae919d][ExtensionHostConnection] <1071> Launched Extension Host Process.
+2025-05-15 15:02:47.234 [info] [172.20.0.1][c0ae919d][ExtensionHostConnection] The client has reconnected.
+2025-05-15 15:02:47.305 [info] [172.20.0.1][6774fed5][ManagementConnection] The client has reconnected.
+2025-05-15 15:22:07.247 [info] [172.20.0.1][6774fed5][ManagementConnection] The client has reconnected.
+2025-05-15 15:22:07.310 [info] [172.20.0.1][c0ae919d][ExtensionHostConnection] The client has reconnected.
+2025-05-15 18:53:12.830 [info] [172.20.0.1][c0ae919d][ExtensionHostConnection] The client has reconnected.
+2025-05-15 18:53:12.914 [info] [172.20.0.1][6774fed5][ManagementConnection] The client has reconnected.
