@@ -73,8 +73,6 @@ bool WriteMesh(Vertex* vertices, unsigned int width, unsigned int height, const 
 	// write header
 	outFile << "COFF" << std::endl;
 
-	outFile << "# numVertices numFaces numEdges" << std::endl;
-
 	outFile << nVertices << " " << nFaces << " 0" << std::endl;
 
 	// TODO: save vertices
@@ -96,8 +94,6 @@ bool WriteMesh(Vertex* vertices, unsigned int width, unsigned int height, const 
     }
 
 	// TODO: save valid faces
-	std::cout << "# list of faces" << std::endl;
-	std::cout << "# nVerticesPerFace idx0 idx1 idx2 ..." << std::endl;
 	for (unsigned int y = 0; y < height - 1; y++) {
         for (unsigned int x = 0; x < width - 1; x++) {
             unsigned int idx0 = y * width + x;
@@ -115,7 +111,7 @@ bool WriteMesh(Vertex* vertices, unsigned int width, unsigned int height, const 
                 Vector4f edge1 = vertices[idx1].position - vertices[idx0].position;
                 Vector4f edge2 = vertices[idx2].position - vertices[idx0].position;
                 if (edge1.head<3>().norm() < edgeThreshold && edge2.head<3>().norm() < edgeThreshold) {
-                    outFile << "3 " << idx0 << " " << idx1 << " " << idx2 << std::endl;
+                    outFile << "3 " << idx0 << " " << idx2 << " " << idx1 << std::endl;
                 }
             }
 
@@ -124,7 +120,7 @@ bool WriteMesh(Vertex* vertices, unsigned int width, unsigned int height, const 
                 Vector4f edge1 = vertices[idx3].position - vertices[idx1].position;
                 Vector4f edge2 = vertices[idx2].position - vertices[idx1].position;
                 if (edge1.head<3>().norm() < edgeThreshold && edge2.head<3>().norm() < edgeThreshold) {
-                    outFile << "3 " << idx1 << " " << idx3 << " " << idx2 << std::endl;
+                    outFile << "3 " << idx2 << " " << idx3 << " " << idx1 << std::endl;
                 }
             }
         }
