@@ -37,5 +37,7 @@ The directory `app` stores the Docker container files. (nothing should be done t
 The directory `files` is shared with the container (VSCode). You will need to place there the exercises from Moodle.
 
 
+## Concepts
+
 
 
