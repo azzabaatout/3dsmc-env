@@ -148,7 +148,7 @@ int main()
 		return -1;
 	}
 
-	// convert video to meshes
+	// convert video to meshes_result
 	while (sensor.ProcessNextFrame())
 	{
 		// get ptr to the current depth frame
