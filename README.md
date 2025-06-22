@@ -37,7 +37,50 @@ The directory `app` stores the Docker container files. (nothing should be done t
 The directory `files` is shared with the container (VSCode). You will need to place there the exercises from Moodle.
 
 
-## Concepts
+# Concepts
+
+## Back-Projection Task (TUM RGB-D SLAM Dataset) - Source Code under `app/back_projection`
+
+### Steps
+
+1. We Load calibrated camera intrinsics `K`, extrinsics `T_cw`, and RGB-D frames.
+
+2. For each pixel `(u, v)` with depth `d`:
+    - Compute camera-space point:  
+      `p_cam = d * K⁻¹ * [u, v, 1]^T`
+    - Transform to world coordinates:  
+      `p_world = R * p_cam + t`, where `T_cw = [R | t]`
+    - Assign RGB color from the aligned color image at `(u, v)`.
+
+3. We Use the 2D pixel grid structure to define mesh faces by connecting adjacent pixels into triangles.
+
+4. Finally, we write vertices and faces with color to an OFF file.
+
+Result: 
+
+![img.png](img.png)
 
 
+## Surface Representations - Source Code under `app/surface_representation`
 
+### Steps
+
+WIP
+
+## Optimization - Source Code under `app/ceres-solver-optimization`
+
+### Steps
+
+WIP
+
+## Coarse Alignment (Procrustes) - Source Code under `app/coarse_alignment-procrustes`
+
+### Steps
+
+WIP
+
+## Object Alignment - Source Code under `app/icp-mesh-alignment`
+
+### Steps
+
+WIP
