@@ -1,4 +1,4 @@
-# 3D Scanning & Motion Capture (IN2354) - Development Environment
+# Development Environment
 
 Docker image with all the required dependencies for the lecture https://niessner.github.io/3DScanning/
 
